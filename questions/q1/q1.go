@@ -8,6 +8,5 @@ package q1
 
 // Sum function, please do NOT change it's name :)
 func Sum(x, y int) int {
-	// Your code goes here
-	return x
+	// Your code goes here	
 }
