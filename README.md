@@ -2,7 +2,7 @@
 A Question Bank for People Learning Programming in GoLang, with Test Driven Development Approach
 
 ## Getting Started
-1) git clone https://github.com/DesmondANIMUS/go-question-bank.git
+1) git clone https://github.com/gaurav-gogia/go-question-bank.git
 2) Open CMD/Terminal in directory
 3) Open root Folder in your favourite code editor
 4) Find questions files in ./questions folder, edit code there.
